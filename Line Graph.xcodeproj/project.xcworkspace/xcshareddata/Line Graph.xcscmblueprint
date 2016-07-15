@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A1312CDB9A89E8A3FD1D8E25101BDA0BE44FF1A9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3BFE6BF65C5823F6374827D77DA64C22BBFABBA2" : 0,
+    "A1312CDB9A89E8A3FD1D8E25101BDA0BE44FF1A9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9C917E31-259F-4825-85BA-4090BB79FCC1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3BFE6BF65C5823F6374827D77DA64C22BBFABBA2" : "",
+    "A1312CDB9A89E8A3FD1D8E25101BDA0BE44FF1A9" : "Line%20Graph\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Line Graph",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Line Graph.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mrbryankmiller\/Projects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3BFE6BF65C5823F6374827D77DA64C22BBFABBA2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mrbryankmiller\/Line-Graph.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A1312CDB9A89E8A3FD1D8E25101BDA0BE44FF1A9"
+    }
+  ]
+}
